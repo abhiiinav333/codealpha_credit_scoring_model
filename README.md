@@ -1,2 +1,2 @@
-# codealpha_credit_scoring_model
-A basic level project.
+# Task: Credit Scoring Model
+Problem Statement: Develop a credit scoring model to predict the creditworthiness of individuals based on historical financial data. Utilize classification algorithms and assess the model's accuracy.
